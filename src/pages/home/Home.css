@@ -1,0 +1,18 @@
+.box{
+    background-color: rgb(255, 0, 64);
+}
+
+.title{
+    color: white !important;
+    font-weight: bold !important;
+}
+
+.button{
+    border-color: white !important;
+    background-color: rgb(255, 0, 64);
+    color: white !important;
+}
+
+.posts{
+    background-color: white;
+}

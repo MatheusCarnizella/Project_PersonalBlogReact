@@ -1,0 +1,25 @@
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.texts1{
+    font-weight: bold !important;
+}
+
+.image{
+    background-image: url(https://educationinprogress.eu/images/social_media.png);
+    background-repeat: no-repeat;
+    width: 100vh;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    border-radius: 45%;
+}
+
+.color2{
+    background-color: rgb(187, 60, 92) !important;
+}
+
+.color3{
+    color: rgb(187, 60, 92) !important;
+}

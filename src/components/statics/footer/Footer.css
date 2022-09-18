@@ -1,0 +1,26 @@
+.box1{
+    background-color: #3F51B5;
+    height: 120px;
+}
+
+.box2{
+    background-color: #303F9F;
+    height:  60px;
+}
+
+.socialMedia{
+    font-size: 60px !important;
+    color: white;
+}
+
+.texts{
+    color: white;
+}
+
+.color{
+    background-color: rgb(255, 0, 64) !important;
+}
+
+.color2{
+    background-color: rgb(187, 60, 92) !important;
+}
